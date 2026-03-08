@@ -15,20 +15,20 @@
 
 ---
 
-##  Table of Contents
+## Table of Contents
 
-- [Incident Overview](#-incident-overview)
-- [Executive Summary](#-executive-summary)
-- [Attack Timeline](#-attack-timeline)
-- [Initial Access](#-initial-access)
-- [Attack Chain Analysis](#-attack-chain-analysis)
-- [Indicators of Compromise](#-indicators-of-compromise)
-- [Detection Opportunities](#-detection-opportunities)
-- [Detection Logic](#-example-detection-logic)
-- [MITRE ATT&CK Mapping](#-mitre-attck-mapping)
-- [Impact Assessment](#-impact-assessment)
-- [Defensive Recommendations](#-defensive-recommendations)
-- [References](#-references)
+- [Incident Overview](#incident-overview)
+- [Executive Summary](#executive-summary)
+- [Attack Timeline](#attack-timeline)
+- [Initial Access](#initial-access)
+- [Attack Chain Analysis](#attack-chain-analysis)
+- [Indicators of Compromise](#indicators-of-compromise)
+- [Detection Opportunities](#detection-opportunities)
+- [Detection Logic](#detection-logic)
+- [MITRE ATT&CK Mapping](#mitre-attck-mapping)
+- [Impact Assessment](#impact-assessment)
+- [Defensive Recommendations](#defensive-recommendations)
+- [References](#references)
 
 ---
 
