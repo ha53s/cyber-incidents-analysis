@@ -130,8 +130,7 @@ THEN
 
 # MITRE ATT&CK Mapping
 
-Mapped using the  
-MITRE ATT&CK framework.
+Mapped using the MITRE ATT&CK framework.
 
 | Tactic | Technique | ID |
 |------|----------|----|
